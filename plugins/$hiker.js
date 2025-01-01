@@ -2,6 +2,8 @@
   if (getAppVersion() >= 3196) {
     //https://hjdhnx.coding.net/public/hiker/hiker/git/files/master/js/dr.js
     //https://hjdhnx.coding.net/api/user/hjdhnx/project/hiker/shared-depot/dr/git/blob/master/js/dr.js
+    //https://dr.playdreamer.cn/js/dr.js
+
     $.extend({
       _rootUrl: "https://dr.playdreamer.cn/libs/",
       rc(url, is_blob) {
